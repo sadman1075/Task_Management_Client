@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "1",
+        "category": [
+            "To-Do"
+        ]
+    },
+    {
+        "_id": "2",
+        "category": [
+            "In-Progress"
+        ]
+    },
+    {
+        "_id": "3",
+        "category": [
+            "Done"
+        ]
+    }
+]
