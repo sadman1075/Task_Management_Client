@@ -29,6 +29,8 @@ A **drag-and-drop task management system** that allows users to create, update, 
 
 ### **1️⃣ Clone the repository**
 ```bash
-git clone https://github.com/your-username/task-management-system.git
+git clone https://github.com/sadman1075/Task_Management_Client
+git clone https://github.com/sadman1075/Task_Management_Server
+cd task-management-system
 cd task-management-system
 
